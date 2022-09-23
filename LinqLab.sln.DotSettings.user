@@ -3,5 +3,15 @@
   &lt;Or&gt;
     &lt;ProjectFile&gt;450AA002-F368-450A-95A9-412DB0F0F2FE/f:02WhereTests.cs&lt;/ProjectFile&gt;
     &lt;ProjectFile&gt;450AA002-F368-450A-95A9-412DB0F0F2FE/f:01FirstAndSingleTests.cs&lt;/ProjectFile&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit2x::450AA002-F368-450A-95A9-412DB0F0F2FE::.NETFramework,Version=v4.6.1::LinqLabTests.GroupByTests.Use_GroupBy_group_by_userName&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit2x::450AA002-F368-450A-95A9-412DB0F0F2FE::.NETFramework,Version=v4.6.1::LinqLabTests.SkipAndTakeTests.Use_Skip_to_skip_5_data&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit2x::450AA002-F368-450A-95A9-412DB0F0F2FE::.NETFramework,Version=v4.6.1::LinqLabTests.SkipAndTakeTests.Use_Take_to_get_5_data&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit2x::450AA002-F368-450A-95A9-412DB0F0F2FE::.NETFramework,Version=v4.6.1::LinqLabTests.SkipAndTakeTests.Use_Skip_to_skip_5_data_and_use_take_to_get_2_data&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit2x::450AA002-F368-450A-95A9-412DB0F0F2FE::.NETFramework,Version=v4.6.1::LinqLabTests.OrderByTests.Use_Order_to_arrange_id_with_ascending&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit2x::450AA002-F368-450A-95A9-412DB0F0F2FE::.NETFramework,Version=v4.6.1::LinqLabTests.OrderByTests.Use_Order_to_arrange_id_with_descending&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit2x::450AA002-F368-450A-95A9-412DB0F0F2FE::.NETFramework,Version=v4.6.1::LinqLabTests.OrderByTests.Use_Order_to_arrange_price_with_ascending_and_next_arrange_id_with_ascending&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit2x::450AA002-F368-450A-95A9-412DB0F0F2FE::.NETFramework,Version=v4.6.1::LinqLabTests.GroupByTests.Use_GroupBy_group_by_userName_and_createTime&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
   &lt;/Or&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
