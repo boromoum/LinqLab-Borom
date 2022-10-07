@@ -52,7 +52,10 @@ namespace LinqLab
         {
             var whereStr = new[] {"demo","joey" };
             var result = new List<Sample>();
-            result = Source.Where(items => items.UserName == whereStr[0] || items.UserName == whereStr[1]).ToList();
+            foreach (var str in whereStr)
+            {
+                result.AddRange(Source.Where(items => items.UserName.Contains(str)).ToList());
+            }
             return result;
         }
 
